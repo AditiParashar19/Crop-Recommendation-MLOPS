@@ -1,0 +1,6 @@
+.env-crop/
+__pycache__/
+*.pyc
+.git/
+.github/
+.pytest_cache/

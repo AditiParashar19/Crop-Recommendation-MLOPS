@@ -1,0 +1,41 @@
+{
+    "model_name": "RandomForestClassifier",
+    "n_estimators": 200,
+    "max_depth": null,
+    "random_state": 42,
+    "n_jobs": -1,
+    "test_accuracy": 0.9954545454545455,
+    "feature_names": [
+        "N",
+        "P",
+        "K",
+        "temperature",
+        "humidity",
+        "ph",
+        "rainfall"
+    ],
+    "target_classes": [
+        "apple",
+        "banana",
+        "blackgram",
+        "chickpea",
+        "coconut",
+        "coffee",
+        "cotton",
+        "grapes",
+        "jute",
+        "kidneybeans",
+        "lentil",
+        "maize",
+        "mango",
+        "mothbeans",
+        "mungbean",
+        "muskmelon",
+        "orange",
+        "papaya",
+        "pigeonpeas",
+        "pomegranate",
+        "rice",
+        "watermelon"
+    ]
+}
