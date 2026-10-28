@@ -1,4 +1,4 @@
-# Crop Recommendation API
+# Crop Recommendation
 
 An end-to-end Machine Learning application that predicts suitable crops based on soil nutrient levels and environmental conditions. The project integrates a trained Random Forest model with a FastAPI REST API, Docker containerization, automated testing, and GitHub Actions continuous integration.
 
@@ -60,7 +60,7 @@ The model uses the following seven features:
 ## Project Structure
 
 ```text
-crop-recommendation-api/
+crop-recommendation/
 ├── .github/
 │   └── workflows/
 │       └── ci.yml
@@ -92,7 +92,7 @@ Ensure the following tools are installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/crop-recommendation-api.git
+git clone https://github.com/AditiParashar19/Crop-Recommendation-MLOPS.git
 ```
 ### 2. Create a Virtual Environment
 
